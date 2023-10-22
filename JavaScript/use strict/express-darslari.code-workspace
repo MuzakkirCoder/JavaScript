@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../express-darslari"
+		},
+		{
+			"path": "D:/OquvMarkaz"
+		},
+		{
+			"path": "../../MarkazSite"
+		},
+		{
+			"path": "D:/React.js/figma_sayt"
+		},
+		{
+			"path": "D:/my-portfolio"
+		},
+		{
+			"path": "D:/Tailwindcss"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript"
+	}
+}
